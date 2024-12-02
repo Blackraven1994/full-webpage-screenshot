@@ -1,0 +1,19 @@
+{
+  "name": "full-webpage-screenshot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node screenshot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "puppeteer": "^14.4.1",
+    "puppeteer-core": "^23.9.0",
+    "uuid": "^11.0.3"
+  }
+}
